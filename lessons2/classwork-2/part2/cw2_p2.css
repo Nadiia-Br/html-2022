@@ -1,0 +1,18 @@
+.grey{
+
+    width: 450px;
+    height: 200px;
+    background: #7f7f80;
+    box-shadow: #d5bb96 -10px -20px 12px 10px;
+}
+.father{
+    margin: 100px;
+}
+.text{
+
+}
+.txt{
+    width: 300px;
+    border-left: 5px solid orangered;
+    padding-left: 20px;
+}
