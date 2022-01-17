@@ -1,0 +1,20 @@
+html,bodY{
+    scroll-behavior: smooth;
+}
+body{
+    background: khaki;
+
+}
+img{
+    width: 200px;
+    height: 370px;
+}
+
+.qwe{
+    font-size: 18px;
+    background: #aafc51;
+}
+
+.text{
+    color: dodgerblue;
+}
