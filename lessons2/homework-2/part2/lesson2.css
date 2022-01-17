@@ -1,0 +1,34 @@
+.header{
+    height: 80px;
+    background: #882726;
+    color: white;
+    font-size: 60px;
+    text-align: center;
+}
+.grey{
+    box-sizing: border-box;
+    height: 100px;
+    background: #bfbfbf;
+    margin-top: 60px;
+    padding: 20px;
+    text-align: justify;
+}
+.blue{
+    box-sizing: border-box;
+    height: 140px;
+    background: #6394eb;
+    padding: 20px;
+    text-align: justify;
+}
+.green{
+    height: 250px;
+    width: 250px;
+    background: #6bb967;
+}
+
+.purple{
+    height: 250px;
+    width: 250px;
+    background: #8785aa;
+    border-radius: 30px;
+}
