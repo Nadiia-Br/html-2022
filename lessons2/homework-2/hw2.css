@@ -1,0 +1,37 @@
+.blocks{
+    background: #25af44;
+    display: flex;
+   flex-wrap: wrap;
+}
+    .square{
+        box-sizing: border-box;
+        background: #f5f517;
+        height: 300px;
+        width: 300px;
+        margin: 100px;
+        text-align: center;
+        font-size: 35px;
+        border: 3px solid black;
+    }
+
+
+.a{
+    box-shadow: black 30px 30px 5px 15px;
+}
+.b{
+    box-shadow: black 30px 30px 20px 15px;
+}
+.c{
+    box-shadow: black 50px 50px 15px 15px;
+}
+.d{
+    box-shadow: black 50px 50px 35px 20px;
+}
+.e{
+    box-shadow: black 30px 30px 20px 15px;
+    border-radius: 15px;
+}
+.f{
+    box-shadow: black 30px 30px 35px 15px;
+    border-radius: 15px;
+}
