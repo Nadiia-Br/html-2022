@@ -1,0 +1,35 @@
+body{
+background: #252525;
+}
+.big{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.block{
+box-sizing: border-box;
+height: 150px;
+    width: 400px;
+    margin: 10px;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 65px;
+    font-size: larger;
+}
+.a{
+    border: 5px solid #fd6e1d;
+    color: #fb6e1d;
+}
+.b{
+    border: 5px solid #2cf3e7;
+    color: #2cf7eb;
+}
+.c{
+    border: 5px solid #fd54a5;
+    color: #fd54a5;
+}
+.d{
+    border: 5px solid #ef3c3c;
+    color: #fd3e3e;
+}
