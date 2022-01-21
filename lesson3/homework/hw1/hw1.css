@@ -1,0 +1,32 @@
+.box{
+    width: 1000px;
+    height: 600px;
+    background: #ef864a;
+    box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+   flex-direction: column;
+padding: 20px;
+}
+.a{
+    margin: auto;
+    width: 900px;
+    height: 250px;
+    background: yellow;
+}
+.bc{
+    margin: 20px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.b{
+    width: 600px;
+    height: 300px;
+    background: #a6e86a;
+}
+.c{
+    width: 280px;
+    height: 300px ;
+    background: cornflowerblue;
+}
