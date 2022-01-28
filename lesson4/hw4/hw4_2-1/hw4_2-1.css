@@ -1,0 +1,46 @@
+
+.he150{
+    height: 150px;
+}
+.wi580{
+    width: 580px;
+}
+
+
+.block{
+    width: 600px;
+    height: 950px;
+    background: #8785aa;
+    box-sizing: border-box;
+    border: 2px solid black;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.yell{
+    background: yellowgreen;
+    border: 2px solid black;
+    margin: 5px;
+}
+.menu{
+    height: 600px;
+    width: 200px;
+    background: lightpink;
+    border: 2px solid black;
+    margin: 5px;
+
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.post{
+    height: 300px ;
+    width: 400px;
+    background: #2cf7eb;
+    border: 2px solid black;
+    margin: 5px;
+}
